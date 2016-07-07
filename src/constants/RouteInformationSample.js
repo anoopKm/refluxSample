@@ -1,0 +1,3 @@
+let RouteInformation = {"areaInfo":[{"stwId":5211,"area":"Stage 2,J P Nagar,Bengaluru"},{"stwId":5203,"area":"Stage 2,J P Nagar,Bengaluru"},{"stwId":5202,"area":"Stage 2,J P Nagar,Bengaluru"},{"stwId":5191,"area":"Stage 2,J P Nagar,Bengaluru"},{"stwId":5190,"area":"Stage 2,J P Nagar,Bengaluru"},{"stwId":5185,"area":"Stage 2,J P Nagar,Bengaluru"},{"stwId":5184,"area":"Stage 2,J P Nagar,Bengaluru"}],"affinityInfo":[]};
+
+module.exports = RouteInformation;

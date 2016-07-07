@@ -1,0 +1,32 @@
+.routwiseData{
+   	border-radius: 5px;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+    li {
+    	list-style: none;
+    	padding-bottom: 5px;
+    	padding-top: 5px;
+    }
+}
+.normal{
+    background-color: #eee;
+}
+.reviewed{
+	background-color: #4CA64C;
+}
+.selected{
+	background-color: #FFAE19;
+}
+.employeeDetail {
+	li{
+	    padding-bottom: 11px;
+	    background-color: white;
+	    list-style: none;
+	    border-bottom: 1px solid #e8eeee;
+	  	div{
+	  	    white-space: nowrap;
+			text-overflow: ellipsis;
+			overflow: hidden;
+	  }
+	}
+}

@@ -1,0 +1,14 @@
+@import "general-filters";
+
+.leftSideContent{
+	background-color: #eee;
+	span {
+		margin: 0px 15px 0px 15px;
+	}
+	.loginDate, .fleet{
+		border-bottom: 2px solid #dce0e0;
+    	padding-bottom: 10px;
+    	padding-top: 10px;
+	}
+}
+
